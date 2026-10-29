@@ -17,8 +17,9 @@
 
 ### 👋 About me
 
-- 🛠️ I work on backend and distributed systems: APIs, real-time data, message queues, and the infra that runs them
-- 🔍 I like digging into framework internals, finding the bug, and sending the fix upstream
+I have a laptop and I build software.
+<br />
+<sub><i>(production-grade backends and the systems around them)</i></sub>
 
 ### 🧰 Tech stack
 
