@@ -23,7 +23,7 @@
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,nodejs,nestjs,nextjs,react,postgres,redis,mongodb,kafka,prisma,docker,aws,terraform,git,githubactions,prometheus,grafana&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,expressjs,nestjs,nextjs,react,postgres,py,html,css,bash,redis,mongodb,kafka,prisma,docker,aws,git,githubactions,prometheus,grafana&perline=11" alt="Tech stack" />
 </p>
 
 ### 🌍 Open source
