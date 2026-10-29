@@ -19,7 +19,7 @@
 
 I have a laptop and I build software.
 <br />
-<sub><i>(production-grade backends and the systems around them)</i></sub>
+(production-grade backends and the systems around them)
 
 ### 🧰 Tech stack
 
