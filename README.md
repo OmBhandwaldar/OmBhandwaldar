@@ -52,6 +52,26 @@ Merged fixes in **NestJS**, **node-redis**, **Mongoose** and **Infisical**.
 
 </details>
 
+### ⚙️ How I work
+
+```yaml
+# om.config.yaml
+engineer:
+  focus: backend / architecture   # full stack, though
+  principles:
+    - understand before you start
+    - design before you build
+    - plan before you code
+    - measure first, optimize second
+  on_failure:
+    retry: true
+    backoff: exponential
+    give_up: never
+  runtime:
+    sleep: optional
+    coffee: required
+```
+
 ### 📊 GitHub stats
 
 <p align="center">
