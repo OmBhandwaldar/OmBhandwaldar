@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-xi-weld-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-India-1d4ed8?style=for-the-badge" alt="India" />
+  <a href="mailto:bhandwaldarom15@gmail.com"><img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
