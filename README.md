@@ -78,7 +78,7 @@ engineer:
 
 <br />
 
-<h3 align="center">💭 think &nbsp;→&nbsp; 🛠️ build &nbsp;→&nbsp; 🩹 fix | ⚡ optimize &nbsp;→&nbsp; 💭 think &nbsp;↻</h3>
+<h3 align="center">think &nbsp;→&nbsp; build &nbsp;→&nbsp; fix | optimize &nbsp;→&nbsp; think &nbsp;↻</h3>
 
 <br />
 
