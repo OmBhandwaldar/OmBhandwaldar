@@ -75,24 +75,10 @@ engineer:
 > [!TIP]
 > ### 🤝 Open to collaborations, hackathons, tech discussions and roles. Reach out at [bhandwaldarom15@gmail.com](mailto:bhandwaldarom15@gmail.com)
 
-### 📊 GitHub stats
+<br />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OmBhandwaldar&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmBhandwaldar&show_icons=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhandwaldar&layout=compact&hide_border=true&theme=tokyonight" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhandwaldar&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-  </picture>
-</p>
+<h3 align="center">💭 think &nbsp;→&nbsp; 🛠️ build &nbsp;→&nbsp; 🩹 fix | ⚡ optimize &nbsp;→&nbsp; 💭 think &nbsp;↻</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmBhandwaldar/OmBhandwaldar/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/OmBhandwaldar/OmBhandwaldar/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=100&section=footer" width="100%" />
