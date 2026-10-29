@@ -73,7 +73,7 @@ engineer:
 ```
 
 > [!TIP]
-> 🤝 **Open to collaborations, hackathons, tech discussions and roles.** Reach out through my [portfolio](https://portfolio-xi-weld-19.vercel.app/).
+> ### 🤝 Open to collaborations, hackathons, tech discussions and roles. Reach out at [bhandwaldarom15@gmail.com](mailto:bhandwaldarom15@gmail.com)
 
 ### 📊 GitHub stats
 
