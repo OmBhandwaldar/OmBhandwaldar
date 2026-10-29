@@ -72,6 +72,9 @@ engineer:
     coffee: required
 ```
 
+> [!TIP]
+> 🤝 **Open to collaborations, hackathons, tech discussions and roles.** Reach out through my [portfolio](https://portfolio-xi-weld-19.vercel.app/).
+
 ### 📊 GitHub stats
 
 <p align="center">
